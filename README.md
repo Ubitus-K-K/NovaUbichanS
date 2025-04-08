@@ -1,4 +1,4 @@
-# Ubi-Chan-VTuber
+# NovaUbichanS
 - Version: 0.2.0
 - Platform: Unity2022.3.22f1
 
