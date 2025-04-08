@@ -1,4 +1,4 @@
-# Ubi-Chan-VTuber
+# NovaUbichanS
 - Version: 0.2.0
 - Platform: Unity2022.3.22f1
 
@@ -10,7 +10,7 @@ This project aims to create an interactive virtual space where live streaming, o
 - [lilToon v1.8.5](https://github.com/lilxyzw/lilToon?path=Assets/lilToon#master )
 - [UniVRM v0.128.2](https://github.com/vrm-c/UniVRM)	
 - [NuGet for Unity](https://github.com/GlitchEnzo/NuGetForUnity)
-- [Selenium] (https://github.com/SeleniumHQ/selenium)
+- [Selenium](https://github.com/SeleniumHQ/selenium)
 - Cinemachine v2.9.7 
 - Newtonsoft JSON v3.2.1 
 
