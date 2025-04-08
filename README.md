@@ -50,4 +50,5 @@ This project aims to create an interactive virtual space where live streaming, o
 # License
 This project is licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).  
 For full details, please see the [LICENSE](LICENSE) file.
+Copyright (C) 2025 Ubitus K.K. (contact@ubitus.net)
 
